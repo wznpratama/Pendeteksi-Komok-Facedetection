@@ -1,2 +1,2 @@
 # Pendeteksi-Komok-Facedetection(Python)
-weekend project 1 - belajar tensorflow pake python
+weekend project - belajar tensorflow buat face detection (pretty legit!)
